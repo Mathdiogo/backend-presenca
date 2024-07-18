@@ -21,5 +21,5 @@ Bem-vindo ao nosso projeto de controle de presença via QR Code para escolas e f
 
 ## Início do Projeto
 
-Este projeto está em seus estágios iniciais. Estamos trabalhando arduamente para desenvolver uma solução robusta e confiável para o controle de presença nas instituições de ensino. A primeira etapa envolve a criação das funcionalidades principais, como o login, a leitura do QR Code, e a verificação por geolocalização.
+Este projeto está em seus estágios iniciais. Estamos trabalhando arduamente para desenvolver uma solução robusta e confiável para o controle de presença nas instituições de ensino. A primeira etapa envolve a criação e modulação do banco de dados, criação das funcionalidades principais, como o login, a leitura do QR Code, e a verificação por geolocalização.
 
